@@ -31,9 +31,6 @@ Esto indica que al menos hay una raíz en el intervalo (Corolario de Bolzano).
 * Es un método abierto, no requiere que la raíz esté encerrada en un intervalo.
 * Puede divergir si las estimaciones iniciales no son adecuadas, por lo que se recomienda elegir $x_0$​ y $x_1$​ razonablemente cerca de la raíz.
 * La fórmula iterativa es  
-$$
-x_{n+1} = x_n - f(x_n) \cdot \frac{x_n - x_{n-1}}{f(x_n) - f(x_{n-1})}
-$$
-
+$$x_{n+1} = x_n - f(x_n) \cdot \frac{x_n - x_{n-1}}{f(x_n) - f(x_{n-1})}$$
 
 [Script del método de la Secante](./metodoSecante.py)
