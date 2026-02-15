@@ -1,0 +1,19 @@
+# ...............................
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# ...............................
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# ...............................
+# VS Code
+.vscode/
