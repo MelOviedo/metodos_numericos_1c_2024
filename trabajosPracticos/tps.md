@@ -24,4 +24,5 @@ El algoritmo se detiene cuando:
 [Script del método de Trisección](./methodTrisection.py)
 
 ## Cuadrados Mínimos y Regresion Lineal 
-[Script de Ejercicio de Cuadrados Mínimos y Regresion Lineal](./CuadradosMinimosYRegresionLineal.ipynb)
+Para ver el *Script de Ejercicio de Cuadrados Mínimos y Regresion Lineal* se tiene que correr [Script conversor de .py a .ipynb](./conversor.py)
+
