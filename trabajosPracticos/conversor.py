@@ -2,6 +2,11 @@
 Correr con:
           python trabajosPracticos/conversor.py
 '''
+'''
+TODO: Para poder visualizar el tp elegir la OPCION 1
+'''
+
+
 import subprocess
 import sys
 
